@@ -1,0 +1,4 @@
+2023-03-26T07:46:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\plugins\forminator\addons\pro\aweber\lib\class-forminator-addon-aweber-wp-api-exception.php on line 11
+
+2023-03-26T07:48:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-includes\class-wpdb.php on line 2187
+
